@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a bigginer who loves building and contributing
 
 
 - 🌱 I’m currently learning [python/creating websites]
-- 📫 How to reach me: [samyasin897@gmail.com]
+
 
 ### Languages
 ![c++]
